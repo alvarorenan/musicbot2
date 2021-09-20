@@ -39,4 +39,4 @@ for i in exts:
     bot.load_extension(i)
 
 
-bot.run("ODg4MTIwOTcwMDAxMzkxNjc2.YUOFGw.tTRPQYijy3fclckjxzxscC2CdfM")
+bot.run("YOUR_TOKEN")
